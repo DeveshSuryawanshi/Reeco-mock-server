@@ -8,7 +8,7 @@
         "price": "72",
         "quantity": "11",
         "total": "0",
-        "status": "Price updated"
+        "status": null
       },
       {
         "id": 2,
@@ -18,7 +18,7 @@
         "price": "60.67",
         "quantity": "0",
         "total": "0",
-        "status": "Missing"
+        "status": null
       },
       {
         "id": 3,
@@ -28,7 +28,7 @@
         "price": "60.67",
         "quantity": "0",
         "total": "0",
-        "status": "Missing-Urgent"
+        "status": null
       },
       {
         "id": 4,
@@ -38,7 +38,7 @@
         "price": "60.67",
         "quantity": "0",
         "total": "0",
-        "status": null
+        "status": "Missing"
       },
       {
         "id": 5,
@@ -48,7 +48,7 @@
         "price": "60.67",
         "quantity": "0",
         "total": "0",
-        "status": null
+        "status": "Missing-Urgent"
       },
       {
         "id": 6,
@@ -58,7 +58,7 @@
         "price": "60.67",
         "quantity": "0",
         "total": "0",
-        "status": null
+        "status": "Approved"
       }
     ]
   }
